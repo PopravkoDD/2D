@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - Ninja
+  - 
   - 
   - 
   - 
@@ -38,12 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Paralax
-    uniqueID: 2718110997
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Ninja
-    uniqueID: 964647185
     locked: 0
